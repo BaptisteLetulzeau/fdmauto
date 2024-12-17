@@ -33,6 +33,10 @@
     opacity: 1;
 }
 
+a {
+    color: white;
+}
+
 
 /*** Button ***/
 .btn {
@@ -140,6 +144,10 @@
         transition: .5s;
         opacity: 1;
     }
+}
+
+.text-white {
+    color: #fff !important;
 }
 
 
